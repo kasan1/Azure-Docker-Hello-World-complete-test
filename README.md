@@ -3,9 +3,6 @@
 # Introduction 
 Azure docker hello world solution using the Azure Kubernetes Service (AKS), Azure Log Analytics, ARM templates, Kubernetes, Azure monitor and Azure Azure Insights.
 
-## Build and Test
-1. Publish the Manifest, provisioning, and ARM templates
-
 ## Cloud provisioning
 
 1. Download the Published files
